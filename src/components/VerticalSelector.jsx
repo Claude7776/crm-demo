@@ -3,7 +3,7 @@ import { VERTICAL_LIST } from '../config/verticals'
 export default function VerticalSelector({ onSelect }) {
   return (
     <div className="selector-page">
-      <div className="selector-logo">Proje<span>oo</span></div>
+      <div className="selector-logo">CRM</div>
       <p className="selector-tagline">CRM SaaS · Démo interactive</p>
       <h2 className="selector-title">Choisissez votre secteur</h2>
       <p className="selector-sub">L'interface s'adapte à votre métier</p>
